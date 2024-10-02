@@ -34,6 +34,7 @@ users = []
 user1 = User(123, "Алексей")
 user2 = User(146, "Максим")
 user3 = User(795, "Матвей")
+user4 = User(498, "Маша")
 
 #Экземпляр класса Admin
 admin1 = Admin(483, "Олег")
